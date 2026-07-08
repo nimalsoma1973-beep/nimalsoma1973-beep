@@ -1,24 +1,143 @@
-# 💫 About Me:
-# 👋 Hi there, I'm Nimalan S<br><br>🎓 I'm a B.Tech Electronics and Communication Engineering student at KARE  <br>🔭 I’m currently working on IoT systems, Embedded Systems, SaaS products, and innovative tech ideas  <br>🌱 I’m currently learning Full-Stack Development, Embedded C, DSP, UI/UX, and scalable product development  <br>👯 I’m looking to collaborate on startups, SaaS platforms, hardware-based solutions, and creative tech projects  <br>🤝 I’m looking for help with scalable architectures, embedded integration, and real-world product building  <br>💬 Ask me about Python, IoT, Electronics, SaaS ideas, beginner web development, or creative tech concepts  <br>⚡ Fun fact: I enjoy combining creativity, technology, and cinematic digital experiences into projects  <br><br>---<br><br># 🛠️ Languages & Technologies<br><br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,git,github,vscode,figma,linux,mysql,firebase,nodejs,react" /><br></p><br><br>---<br><br># 🚀 Projects<br><br>## 🔹 Hardware & IoT Projects<br>- 🏏 Smart Cricket Helmet Impact Detection System  <br>- 👴 IoT-based Fall Detection System for Elderly  <br>- 📡 Smart Embedded Sensor Systems  <br>- 🚨 Safety & Alert Automation Projects  <br>- 🔌 ESP32 & Arduino-based IoT Applications  <br>- 📟 Embedded Mini Projects & Sensor Integrations  <br><br>## 🔹 SaaS & Software Projects<br>- 🌐 Student Management & Attendance System  <br>- 📊 SaaS Dashboard Concepts for Students & Communities  <br>- 🔐 Authentication & Login-based Systems  <br>- 🤖 AI-powered Productivity Tool Concepts  <br>- 📱 Responsive Web Interfaces & Interactive UI Projects  <br>- ☁️ Cloud-connected Web Applications  <br><br>## 🔹 SOCs, Communities & Activities<br>- 🎤 Active participant in technical communities and student collaborations  <br>- 💡 Interested in ideathons, hackathons, workshops, and design-build innovation events  <br>- 🤝 Building startup-oriented and collaborative tech concepts  <br>- 🚀 Exploring leadership, management, and product-building through SOC activities  <br><br>---<br><br># 📚 Currently Exploring<br>- Embedded Systems for IoT  <br>- Full-Stack Web Development  <br>- SaaS Product Engineering  <br>- AI Tools & Automation  <br>- UI/UX Design & Interactive Experiences  <br>- Cloud & Backend Technologies  <br>- Startup & Product Development  <br><br>---<br><br># 🧰 Tools & Platforms<br><br><p align="left"><br>  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,linux,firebase,mysql,nodejs,react,arduino" /><br></p><br><br>---<br><br># 📊 GitHub Stats<br><br>![](https://github-readme-stats.vercel.app/api?username=nimalsoma1973&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br><br>![](https://github-readme-streak-stats.herokuapp.com/?user=nimalsoma1973&theme=tokyonight&hide_border=false)<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimalsoma1973&theme=tokyonight&hide_border=false&layout=compact)<br><br>---<br><br># 📫 Connect With Me<br>- 💼 LinkedIn: www.linkedin.com/in/nimalan-sankara-lingam-5n6k73650  <br>- 📧 Email: nimalsoma1973@gmail.com  <br><br>---<br><br># ✨ Motto<br>> “Building myself while building technology.”
+# 💫 About Me
 
+🎓 Electronics & Communication Engineering student passionate about **Embedded Systems, IoT, Full-Stack Development, and UI/UX Design**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz._.nim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nimalan-sankara-lingam-5n6k73650) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimalsoma1973@gmail.com) 
+🚀 Co-Founder of **Skyzuri TechBridge**, building technology solutions, digital products, and innovative software.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nimalsoma1973-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nimalsoma1973-beep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimalsoma1973-beep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 I enjoy developing intelligent systems that combine **hardware and software**, from ESP32-based IoT projects to modern web applications.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔭 Currently working on:
+- Smart Traffic Management System (ESP32)
+- Smart Home Automation System
+- Abu Bhai Briyani Restaurant Management Platform
+- Personal Portfolio
+- Skyzuri TechBridge
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nimalsoma1973-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 Currently learning:
+Embedded C • STM32 • ESP32 • RTOS • React • Firebase • Full-Stack Development • German
+
+🤝 Open to collaborating on:
+Embedded Systems • IoT • React • Open Source • AI + IoT
+
+💬 Ask me about:
+Arduino • ESP32 • IoT • React • JavaScript • Firebase • UI/UX • Git & GitHub
+
+⚡ Fun Fact:
+I love building complete products—from embedded firmware and electronics to polished web applications and user experiences.
+
+Tech Stack
+Programming Languages
+C
+C++
+Python
+JavaScript
+HTML5
+CSS3
+Embedded Systems & IoT
+Arduino
+ESP32
+STM32
+Embedded C
+MQTT
+I2C
+SPI
+UART
+GPS
+Blynk
+Web Development
+React
+React Native (Expo)
+Firebase
+Node.js
+Express.js
+REST APIs
+Tailwind CSS
+Design & Tools
+Git
+GitHub
+VS Code
+Arduino IDE
+PlatformIO
+Wokwi
+Figma
+Canva
+Adobe Photoshop
+# 🚀 Featured Projects
+
+### 🚦 Smart Traffic Management System
+An intelligent traffic management solution using ESP32, sensors, and embedded programming to improve traffic flow and road safety.
+
+**Highlights**
+- 🚗 Adaptive traffic signal control
+- 🚑 Emergency vehicle priority
+- 🚶 Pedestrian crossing support
+- 📊 Traffic density monitoring
+- 🔧 Built using Arduino IDE & Wokwi Simulator
 
 ---
-[![](https://komarev.com/ghpvc/?username=nimalsoma1973-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏠 Smart Home Automation System
+A smart IoT-based home automation solution designed to improve security, convenience, and energy efficiency.
+
+**Highlights**
+- 💡 Automated lighting control
+- 🚨 Motion & intrusion detection
+- 🔔 Smart security alerts
+- 📱 IoT device integration
+- ⚡ Energy-efficient automation
+
+---
+
+### 🍗 Abu Bhai Briyani
+A complete restaurant management platform with separate dashboards for customers, kitchen staff, billing, delivery, and administration.
+
+**Highlights**
+- 🛒 Customer ordering system
+- 👨‍🍳 Kitchen dashboard
+- 💳 Billing management
+- 🚚 Delivery tracking
+- ☁️ Firebase backend
+- 📱 Modern React & Expo application
+
+---
+
+### 🚀 Skyzuri TechBridge
+Co-founder of a technology startup focused on building practical digital solutions for businesses and students.
+
+**Focus Areas**
+- 💻 Software Development
+- 🌐 Web Development
+- 📱 Mobile Applications
+- 🎨 UI/UX Design
+- 🤖 Embedded Systems
+- 🚀 Digital Branding
+- # 🌐 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn:
+www.linkedin.com/in/nimalan-sankara-lingam-5n6k73650
+
+🌍 Portfolio:
+https://your-portfolio.vercel.app
+
+🚀 Startup:
+Skyzuri TechBridge
+
+💻 GitHub:
+https://github.com/nimalsoma1973-beep
+# 📚 Currently Exploring
+
+🔹 Embedded Linux
+
+🔹 RTOS
+
+🔹 AI + IoT
+
+🔹 PCB Design
+
+🔹 Cloud Computing
+
+🔹 Advanced React
+
+🔹 System Design
