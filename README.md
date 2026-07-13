@@ -119,7 +119,7 @@ Co-founder of a technology startup focused on building practical digital solutio
 www.linkedin.com/in/nimalan-sankara-lingam-5n6k73650
 
 🌍 Portfolio:
-https://your-portfolio.vercel.app
+https://nimalan-portfolio-sable.vercel.app
 
 🚀 Startup:
 Skyzuri TechBridge
